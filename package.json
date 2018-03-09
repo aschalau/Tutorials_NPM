@@ -1,0 +1,17 @@
+{
+  "name": "@amina/npm-tutorial",
+  "version": "0.0.2",
+  "description": "tutorial to learn npm",
+  "main": "index.js",
+  "repository": {
+    "url": "http://www.google.com"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Aaron Mina",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
